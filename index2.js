@@ -11,7 +11,7 @@ var searches = ["cancer symptomes","why does my stomach hurt?","how to stop poop
         secret.moveTo(RB(0,screen.width),RB(0,screen.height));
     },5000);
     onfocus = () => {
-        open('stuff/index2.html');
+        open('index2.html');
     }
     onbeforeunload = () => {
         return "I NEED TO FEED MY 8 CHILDREN AND 81 COUSINS!";
